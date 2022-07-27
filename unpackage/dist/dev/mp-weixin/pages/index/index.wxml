@@ -1,0 +1,1 @@
+<view class="scroll"><scroll-view class="left" cscroll-y="{{true}}"><view class="active">熱銷</view><view>折扣</view><view>廚師推介</view><view>超值套歺</view><view>湯麵</view><view>小炒</view><view>白飯</view></scroll-view><view></view></view>
